@@ -792,7 +792,7 @@ export const bolivia: LeaderNoId[] = [
 	},
 	{
 		countryId,
-		name: `Rodrigo Paz Pereira`,
+		name: `odrigo Paz Pereira`,
 		party: `Christian Democratic Party`,
 		leaning: leanings.CENTER_RIGHT,
 		tookOffice: `8 November 2025`,
