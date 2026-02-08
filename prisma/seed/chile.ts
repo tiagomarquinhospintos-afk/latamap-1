@@ -768,7 +768,7 @@ export const chile: LeaderNoId[] = [
 	},
 	{
 		countryId,
-		name: `Gabriel Boric`,
+		name: `abriel Boric`,
 		party: `Social Convergence`,
 		leaning: leanings.LEFT,
 		tookOffice: `11 March 2022`,
