@@ -875,8 +875,9 @@ export const argentina: LeaderNoId[] = [
 		countryId,
 		name: `Javier Milei`,
 		party: `Libertarian Party`,
-		leaning: leanings.FAR_RIGHT,
-		tookOffice: `10 December 2023`,
+		leaning: leanings.LEFT,
+		tookOffice: `10 December 2023`
+,
 		leftOffice: null,
 	}
 ];
